@@ -1,0 +1,9 @@
+{
+  "name": "inventario-pwa-supabase",
+  "version": "1.0.0",
+  "description": "PWA de control de inventario con Supabase",
+  "scripts": {
+    "dev": "npx --yes http-server -p 8080 -c-1 .",
+    "start": "npx --yes http-server -p 8080 -c-1 ."
+  }
+}
